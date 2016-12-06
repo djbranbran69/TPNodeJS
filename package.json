@@ -1,0 +1,24 @@
+{
+  "name": "tp",
+  "version": "1.0.0",
+  "description": "TP node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djbranbran69/TPNodeJS.git"
+  },
+  "author": "Brandon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djbranbran69/TPNodeJS/issues"
+  },
+  "homepage": "https://github.com/djbranbran69/TPNodeJS#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
